@@ -10,9 +10,14 @@ body{
     border: 1px solid black;
 }
 
+header{
+    font-weight: bold;
+    font-size: 25px;
+}
+
 #main-doc{
     width: 75%;
-    position: fixed;
+    position: absolute;
     left: 25%;
 }
 
