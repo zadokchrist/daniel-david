@@ -10,6 +10,12 @@ body{
     border: 1px solid black;
 }
 
+ul{
+    list-style-type: none;  
+    margin: 0;
+padding: 0;
+}
+
 header{
     font-weight: bold;
     font-size: 25px;
